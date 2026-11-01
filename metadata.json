@@ -1,0 +1,6 @@
+{
+  "name": "Mega Bazar - Online Marketplace",
+  "description": "Mega Bazar Pakistan - Online Marketplace for electronics, fashion, home goods, and multi-vendor shops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
